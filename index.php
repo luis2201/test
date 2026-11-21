@@ -3,3 +3,5 @@
   echo 'hola mundo';
 
   echo 'FORGE 1.0';
+
+  echo 'Testeando entorno de desarrollo y despliegue en linux';
