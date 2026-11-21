@@ -2,3 +2,4 @@
 <?php
 
   echo 'Probando conflictos en las ramas';
+
