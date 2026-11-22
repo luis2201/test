@@ -3,3 +3,4 @@
 
   echo 'Probando conflictos en las ramas';
 
+  echo 'Nueva prueba de divergencia';
