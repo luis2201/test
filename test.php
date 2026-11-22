@@ -4,3 +4,5 @@
   echo 'Probando conflictos en las ramas';
 
   echo 'Nueva prueba de divergencia';
+
+  echo 'Testeo de ivergencia final'
